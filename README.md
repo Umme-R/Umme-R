@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a student at Barnard College of Columbia University studying Computer Science. I like to focus on web and mobile app development while ensuring good UX/UI.
-
+Recent graduate from Barnard College of Columbia University with a degree in Computer Science.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/umme-raisah-a31088313) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umme.raisah@gmail.com) 
